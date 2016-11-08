@@ -3,7 +3,7 @@
 [![Puppet Forge](https://img.shields.io/puppetforge/f/maestrodev/wget.svg)](https://forge.puppetlabs.com/maestrodev/wget)
 [![Puppet Forge](https://img.shields.io/puppetforge/e/maestrodev/wget.svg)](https://forge.puppetlabs.com/maestrodev/wget)
 
-
+A NEW CHANGE!
 
 A Puppet module to download files with wget, supporting authentication.
 
@@ -23,7 +23,7 @@ install wget:
       verbose     => false,
     }
 ```
-or alternatively: 
+or alternatively:
 
 ```puppet
     wget::fetch { 'http://www.google.com/index.html':
