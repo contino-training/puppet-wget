@@ -3,8 +3,6 @@
 [![Puppet Forge](https://img.shields.io/puppetforge/f/maestrodev/wget.svg)](https://forge.puppetlabs.com/maestrodev/wget)
 [![Puppet Forge](https://img.shields.io/puppetforge/e/maestrodev/wget.svg)](https://forge.puppetlabs.com/maestrodev/wget)
 
-A NEW CHANGE!
-
 A Puppet module to download files with wget, supporting authentication.
 
 # Example
