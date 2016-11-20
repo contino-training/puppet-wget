@@ -5,7 +5,6 @@
 
 A Puppet module to download files with wget, supporting authentication.
 
-My Changes to README file - Santosh Charugulla
 # Example
 
 install wget:
